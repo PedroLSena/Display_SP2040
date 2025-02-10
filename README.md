@@ -1,4 +1,5 @@
 Comunicação Serial
+Vídeo de ensaio: https://youtube.com/shorts/osiNejsofkg
 Este projeto demonstra a integração de diversas tecnologias e periféricos utilizando o Raspberry Pi Pico (ou placa compatível). Nele, você encontrará:
 
 Controle de LEDs WS2812 em uma matriz 5x5 para exibir dígitos (0–9).
